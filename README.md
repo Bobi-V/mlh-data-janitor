@@ -1,6 +1,6 @@
 ## MLH Data Janitor Task
 
-Python implementation of [dataset cleaning task](https://www.mlh.com/challenges/019abf91-3148-c994-f4d8-53dcef17288f).
+Python implementation of the MLH [dataset janitor task](https://www.mlh.com/challenges/019abf91-3148-c994-f4d8-53dcef17288f).
 
 ### Local install
 
